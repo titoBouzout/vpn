@@ -6,7 +6,7 @@ A simple Chrome Extension to proxy any domain via some of your own servers.
 
 ### On your own computer run
 
-    `ssh -D 1337 -N -C root@YOUIP`
+    ssh -D 1337 -N -C root@YOUIP
 
 ## The Extension
 
