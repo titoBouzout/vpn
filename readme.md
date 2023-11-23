@@ -17,4 +17,5 @@ you may use Chrome Dev version which doesnt warns.
 
 ## at startup on windows
 
-You may use the task manager to run the command at startup when the user logins
+You may use the task scheduler to run the command at startup when the user
+logins
